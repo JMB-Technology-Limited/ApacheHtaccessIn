@@ -38,9 +38,9 @@ Then simply change your config to
 </VirtualHost>
 ```
 
-Done!
+Reload or restart Apache. Done!
 
-Every time you do something that might change your .htaccess files, such as upgrade the app, you will need to rerun this.
+Every time you do something that might change your .htaccess files, such as upgrade the app, you will need to rerun this and reload or restart Apache.
 
 ## Run from PHP
 
