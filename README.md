@@ -42,6 +42,8 @@ Reload or restart Apache. Done!
 
 Every time you do something that might change your .htaccess files, such as upgrade the app, you will need to rerun this and reload or restart Apache.
 
+Note: the output file created contains complete paths. This means if you move the web app - say from /var/www/example.com/web to /websites/example.com/web you will need to rerun this.
+
 ## Run from PHP
 
 This can be included with composer: https://packagist.org/packages/jmbtechnologylimited/apachehtaccessin
