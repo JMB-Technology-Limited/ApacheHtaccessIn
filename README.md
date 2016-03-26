@@ -6,7 +6,7 @@ Problem: it is better for performance if these configs are baked into Apache, in
 
 http://httpd.apache.org/docs/current/howto/htaccess.html
 
-This library is a simple library that will search through a directory for .htaccess files and make them into a Apache config for you.
+This library is a simple library that will search through a directory for .htaccess files and make them into an Apache config for you.
 
 ## Use from the command line
 
