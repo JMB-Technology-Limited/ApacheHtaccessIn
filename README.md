@@ -33,8 +33,8 @@ Then simply change your config to
     DocumentRoot /var/www/example.com/web
     <Directory /var/www/example.com/web >
         AllowOverride none
-        Include /var/www/example.com/apacheConfig
     </Directory>
+    Include /var/www/example.com/apacheConfig
 </VirtualHost>
 ```
 
