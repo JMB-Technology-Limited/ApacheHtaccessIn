@@ -4,7 +4,7 @@
 	"description": "",
 	"keywords": ["apache","htaccess"],
 	"homepage": "https://github.com/JMB-Technology-Limited/ApacheHtaccessIn",
-	"license": "BSD",
+	"license": "BSD-3-Clause",
 	"authors": [
 		{
 			"name": "James Baster",
