@@ -10,5 +10,6 @@ php:
 
 before_script:
   - composer install --dev --no-interaction
+  - wget https://phar.phpunit.de/phpunit-4.8.phar
 
-script: phpunit  --configuration tests/phpunit.xml
+script: php phpunit-4.8.phar  --configuration tests/phpunit.xml
